@@ -1,0 +1,6 @@
+E:\Programs\C# Projects\Data Type Selection\Data Type Selection\bin\Debug\Data Type Selection.exe.config
+E:\Programs\C# Projects\Data Type Selection\Data Type Selection\bin\Debug\Data Type Selection.exe
+E:\Programs\C# Projects\Data Type Selection\Data Type Selection\bin\Debug\Data Type Selection.pdb
+E:\Programs\C# Projects\Data Type Selection\Data Type Selection\obj\Debug\Data Type Selection.csprojResolveAssemblyReference.cache
+E:\Programs\C# Projects\Data Type Selection\Data Type Selection\obj\Debug\Data Type Selection.exe
+E:\Programs\C# Projects\Data Type Selection\Data Type Selection\obj\Debug\Data Type Selection.pdb
